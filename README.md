@@ -49,3 +49,9 @@ Das nachfolgende Gewächshaus beinhaltet die Hard- als auch Software.
 
 ![Gewächshaus](Bilder/IMG-20170617-WA0044.jpg "Gewächshaus")
 ![Gewächshaus Bewässerung](Bilder/IMG-20170617-WA0032.jpg "Gewächshaus Bewässerung")
+![Gewächshaus von Oben](Bilder/IMG-20170617-WA0030.jpg "Gewächshaus von Oben")
+![Gewächshaus nah](Bilder/IMG-20170617-WA0028.jpg "Gewächshaus nah")
+![Platine](Bilder/Platine.jpg "Platine")
+![Smartphone Einstellungen](Bilder/Smartphone1.jpg "Smartphone Einstellungen")
+![Smartphone erweiterte Einstellungen](Bilder/Smartphone2.jpg "Smartphone erweiterte Einstellungen")
+
