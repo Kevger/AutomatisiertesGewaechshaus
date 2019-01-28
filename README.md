@@ -34,3 +34,18 @@ Installation der Software
 5) Wiring-PI installieren. [Tutorial: Wiring-PI Installation](https://projects.drogon.net/raspberry-pi/wiringpi/download-and-install/ "Wiring-PI"). Wiring-PI wird für das C Programm benötigt, um die Interrupts der Pins abzufangen.
 6) Einfügen des C-Programms auf den Desktop.
 7) Autostart für Chromium einrichten mit 10 Sekunden Verzögerung [Tutorial: Chromium im Vollbildmodus automatisch starten](https://projects.drogon.net/raspberry-pi/wiringpi/download-and-install/ "Wiring-PI").
+
+Nutzung
+---------------------
+Nach erfolgreicher Installation und Einrichtung aller Bestandteile, sollte das Gewächshaus automatisch mit vorhandener Stromversorgung starten.
+Vor einer Inbetriebnahme müssen der Bodenfeuchtesensor und Lichtsensor über die erweiterten Einstellungen kalibriert werden. Diese nutzen dafür eine Zweipunktkalibrierung. Um den Bodenfeuchtesensor zu kalibrieren, den Sensor zuerst in die "kritisch" trockene Erde, anschließend in eine per Hand befeuchtete "100%" feuchte Erde stecken. 
+Für den Lichtsensor den Raum "kritisch" abdunkeln und für 100% entsprechend beleuchten.
+Die Sollwerte und Regelparameter können über eine Toucheingabe einfach eingestellt werden.
+
+
+Beispiel fertiggestelltes Gewächshaus
+---------------------
+Das nachfolgende Gewächshaus beinhaltet die Hard- als auch Software. 
+
+![Gewächshaus](Bilder/IMG-20170617-WA0044.jpg "Gewächshaus")
+![Gewächshaus Bewässerung](Bilder/IMG-20170617-WA0032.jpg "Gewächshaus Bewässerung")
