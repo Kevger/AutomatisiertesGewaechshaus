@@ -25,18 +25,12 @@ Der Feuchtigkeitssensor [Giess-o-mat](https://www.ramser-elektro.at/shop/bausaet
 Installation der Software
 -------------------
 1) 1-Wire und I2C in den Einstellungen des PIs aktivieren [Tutorial: 1-Wire und I2C aktivieren](https://www.raspberrypi-spy.co.uk/2018/02/enable-1-wire-interface-raspberry-pi/ "1-Wire und I2C aktivieren")
-
 2) Node-RED auf dem Raspberry PI 3 installieren und Autostart aktivieren. [Tutorial: Node-RED Installation](https://nodered.org/docs/hardware/raspberrypi "Node-RED Installation") 
-
 3) Installieren der benötigten Node-RED Bibliotheken: 
 [DHT](https://flows.nodered.org/node/node-red-contrib-dht-sensor "Node-RED DHT")
 [I2C](https://flows.nodered.org/node/node-red-contrib-i2c "I2C")
 [1-Wire](https://flows.nodered.org/node/node-red-contrib-1wire "1-Wire")
-
 4) Importieren des Node-RED Quellcodes aus diesem Repository in Node-RED.
-
 5) Wiring-PI installieren. [Tutorial: Wiring-PI Installation](https://projects.drogon.net/raspberry-pi/wiringpi/download-and-install/ "Wiring-PI"). Wiring-PI wird für das C Programm benötigt, um die Interrupts der Pins abzufangen.
-
 6) Einfügen des C-Programms auf den Desktop.
-
 7) Autostart für Chromium einrichten mit 10 Sekunden Verzögerung [Tutorial: Chromium im Vollbildmodus automatisch starten](https://projects.drogon.net/raspberry-pi/wiringpi/download-and-install/ "Wiring-PI").
